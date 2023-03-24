@@ -14,7 +14,7 @@ Caso queira entrar em contato, basta enviar uma mensagem em uma das redes sociai
 
 ![vídeo demonstrativo de navegação](https://user-images.githubusercontent.com/126200406/227562822-68fc44ad-d0a2-439f-97f5-0dd4c401f9dc.gif)
 
-##  Técnicas e tecnologias utilizadas
+## :round_pushpin: Técnicas e tecnologias utilizadas
 
 - `HTML`
 - `CSS`:
@@ -23,6 +23,6 @@ Caso queira entrar em contato, basta enviar uma mensagem em uma das redes sociai
   - `:root`: aplicação de variáveis, facilitando futuras atualizações de identidade visual
 - `Figma`: edição das imagens utilizadas
 
-##  Abrir e rodar o projeto
+## :round_pushpin: Abrir e rodar o projeto
 
 Para abrir e rodar o projeto, abra o aquivo `index.html` no navegador.
