@@ -8,7 +8,7 @@ Este é meu primeiro projeto de desenvolvimento Front-end, nele é possível ter
 
 ![video_frontpage](https://user-images.githubusercontent.com/126200406/227562822-68fc44ad-d0a2-439f-97f5-0dd4c401f9dc.gif)
 
-## ✔️ Técnicas e tecnologias utilizadas
+##  Técnicas e tecnologias utilizadas
 
 - `HTML`
 - `CSS`:
@@ -17,6 +17,6 @@ Este é meu primeiro projeto de desenvolvimento Front-end, nele é possível ter
   - `:root`: aplicação de variáveis, facilitando futuras atualizações de identidade visual
 - `Figma`: edição das imagens utilizadas
 
-## 🛠️ Abrir e rodar o projeto
+##  Abrir e rodar o projeto
 
 Para abrir e rodar o projeto, abra o aquivo `index.html` no navegador.
