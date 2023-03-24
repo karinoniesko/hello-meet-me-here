@@ -1,12 +1,18 @@
 # hello-meet-me-here
 
-![Inicial](https://user-images.githubusercontent.com/126200406/227562528-379b8134-d911-474b-b6e6-25295fb6b2e4.png)
+![Home Page do projeto](https://user-images.githubusercontent.com/126200406/227562528-379b8134-d911-474b-b6e6-25295fb6b2e4.png)
 
 # Apresentação
 
-Este é meu primeiro projeto de desenvolvimento Front-end, nele é possível ter acesso aos links do meu perfil nas redes sociais que utilizo atualmente, ler uma breve biografia, assistir ao meu vídeo de apresentação profissional e ler meu currículo atualizado. Caso queira entrar em contato, basta enviar uma mensagem em uma das redes sociais.
+Este é meu primeiro projeto de desenvolvimento Front-end, nele é possível ter acesso a:
+- Links dos meus perfis nas redes sociais que utilizo atualmente;
+- Uma breve biografia;
+- Vídeo de apresentação profissional;
+- Meu currículo atualizado.
 
-![video_frontpage](https://user-images.githubusercontent.com/126200406/227562822-68fc44ad-d0a2-439f-97f5-0dd4c401f9dc.gif)
+Caso queira entrar em contato, basta enviar uma mensagem em uma das redes sociais.
+
+![vídeo demonstrativo de navegação](https://user-images.githubusercontent.com/126200406/227562822-68fc44ad-d0a2-439f-97f5-0dd4c401f9dc.gif)
 
 ##  Técnicas e tecnologias utilizadas
 
