@@ -134,10 +134,6 @@ body {
 .apresentacao__imagem {
     width: 50%;
 }
-.apresentacao__video {
-    width: auto;
-    /*width="560" height="315" descobrir como arrumar de forma responsiva*/
-}
 
 .rodape {
     padding: 24px;
