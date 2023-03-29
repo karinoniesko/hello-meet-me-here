@@ -4,8 +4,8 @@
 
 # Apresentação
 
-Este é meu primeiro projeto de desenvolvimento Front-end, nele é possível ter acesso a:
-- Links dos meus perfis nas redes sociais que utilizo atualmente;
+Este é meu primeiro projeto de desenvolvimento Front-end, criado durante os cursos de HTML e CSS da plataforma Alura, sob orientação dos professores [Guilherme Lima](https://github.com/guilhermeonrails) e [Rafaella Ballerini](https://github.com/rafaballerini). Neste projeto você terá acesso a:
+- Links dos meus perfis nas redes sociais;
 - Uma breve biografia;
 - Vídeo de apresentação profissional;
 - Meu currículo atualizado.
